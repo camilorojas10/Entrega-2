@@ -5,12 +5,12 @@ Proyecto de visión por computador para la detección y clasificación multiclas
 
 ---
 
-## 🎥 Video de Presentación
+## Video de Presentación
 * **Enlace en YouTube:** [Ver presentación del proyecto en YouTube](https://youtu.be/mw9VS1npqQY)
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 Los cuadernos están numerados secuencialmente y son autocontenidos para su ejecución directa en **Google Colaboratory**:
 
@@ -25,7 +25,7 @@ Los cuadernos están numerados secuencialmente y son autocontenidos para su ejec
 
 ---
 
-## 💾 Obtención y Disponibilidad de los Datos
+##  Obtención y Disponibilidad de los Datos
 
 El conjunto de datos utilizado es **ODIR-5K** (*Ocular Disease Intelligent Recognition*), compuesto por 6.392 imágenes de fondo de ojo distribuidas en 8 clases (`N`, `D`, `G`, `C`, `A`, `H`, `M`, `O`).
 
@@ -41,7 +41,7 @@ El conjunto de datos utilizado es **ODIR-5K** (*Ocular Disease Intelligent Recog
 
 ---
 
-## 📊 Resumen de Resultados Principales
+##  Resumen de Resultados Principales
 
 | Modelo / Estrategia | Accuracy Global | Precision Macro | Recall Macro | F1-Score Macro |
 | :--- | :---: | :---: | :---: | :---: |
