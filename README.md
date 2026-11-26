@@ -33,7 +33,7 @@ El conjunto de datos utilizado es **ODIR-5K** (*Ocular Disease Intelligent Recog
 1. **Fuente original:** El dataset público puede descargarse desde la plataforma oficial de la competencia [ODIR-2019 Grand Challenge](https://www.kaggle.com/code/gpreda/ocular-disease-recognition-eda) o mediante su distribución estructurada con imágenes preprocesadas (`full_df.csv` y carpeta `preprocessed_images/`).
 2. **Configuración en Google Drive:** Para reproducir directamente los cuadernos en Google Colab sin modificar las rutas:
    * Descarga o agrega la carpeta `BaseDatos` (que contiene `full_df.csv` y la subcarpeta `preprocessed_images/`) a la raíz de tu Google Drive (`MyDrive/BaseDatos`).
-   * *(Opcional - Enlace de acceso directo a la carpeta estructurada: [Enlace a carpeta BaseDatos en Drive](PEGA_AQUI_TU_ENLACE_DE_DRIVE_SI_LO_COMPARTES))*.
+   * *(Opcional - Enlace de acceso directo a la carpeta estructurada: [Enlace a carpeta BaseDatos en Drive](https://drive.google.com/drive/folders/13MifQaSbUobyFUg_WrW0tJYTArZyXrtk?usp=drive_link)*.
 3. **Ejecución en Colab:**
    * Abre cualquiera de los cuadernos `.ipynb` en Google Colab.
    * Activa la aceleración por hardware: **Entorno de ejecución $\rightarrow$ Cambiar tipo de entorno de ejecución $\rightarrow$ T4 GPU**.
