@@ -30,7 +30,7 @@ Los cuadernos están numerados secuencialmente y son autocontenidos para su ejec
 El conjunto de datos utilizado es **ODIR-5K** (*Ocular Disease Intelligent Recognition*), compuesto por 6.392 imágenes de fondo de ojo distribuidas en 8 clases (`N`, `D`, `G`, `C`, `A`, `H`, `M`, `O`).
 
 ### Cómo hacer disponibles los datos para ejecutar los cuadernos en Google Colab:
-1. **Fuente original:** El dataset público puede descargarse desde la plataforma oficial de la competencia [ODIR-2019 Grand Challenge](https://odir2019.grand-challenge.org/) o mediante su distribución estructurada con imágenes preprocesadas (`full_df.csv` y carpeta `preprocessed_images/`).
+1. **Fuente original:** El dataset público puede descargarse desde la plataforma oficial de la competencia [ODIR-2019 Grand Challenge](https://www.kaggle.com/code/gpreda/ocular-disease-recognition-eda) o mediante su distribución estructurada con imágenes preprocesadas (`full_df.csv` y carpeta `preprocessed_images/`).
 2. **Configuración en Google Drive:** Para reproducir directamente los cuadernos en Google Colab sin modificar las rutas:
    * Descarga o agrega la carpeta `BaseDatos` (que contiene `full_df.csv` y la subcarpeta `preprocessed_images/`) a la raíz de tu Google Drive (`MyDrive/BaseDatos`).
    * *(Opcional - Enlace de acceso directo a la carpeta estructurada: [Enlace a carpeta BaseDatos en Drive](PEGA_AQUI_TU_ENLACE_DE_DRIVE_SI_LO_COMPARTES))*.
