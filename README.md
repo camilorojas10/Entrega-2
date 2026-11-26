@@ -6,7 +6,7 @@ Proyecto de visión por computador para la detección y clasificación multiclas
 ---
 
 ## 🎥 Video de Presentación
-* **Enlace en YouTube:** [Ver presentación del proyecto en YouTube](PEGA_AQUI_EL_ENLACE_DE_YOUTUBE)
+* **Enlace en YouTube:** [Ver presentación del proyecto en YouTube](https://youtu.be/mw9VS1npqQY)
 
 ---
 
